@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|W|.|.|.|.|
+|W|o|r|s|t|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -17,3 +17,4 @@ req4: ja
 req5: O
 req6: ja
 req7: Worst
+req8: dat klopt goed gespeeld
