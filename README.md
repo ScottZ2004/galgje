@@ -3,7 +3,7 @@
 ## Te raden woord
 
 |.|.|.|.|.|
-|-|-|-|-|-|
+|W|-|-|-|-|
 |1|2|3|4|5|
 
 ## Score
@@ -13,3 +13,4 @@
 req1: A
 req2: Nee
 req3: W
+req4: ja
